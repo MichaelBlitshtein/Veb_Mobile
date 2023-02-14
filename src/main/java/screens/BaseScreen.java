@@ -23,6 +23,6 @@ public class BaseScreen {
     }
 
     public void hideKeyBoard(){
-
+        driver.hideKeyboard();
     }
 }

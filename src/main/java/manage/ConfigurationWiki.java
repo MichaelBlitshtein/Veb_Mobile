@@ -17,12 +17,12 @@ public class ConfigurationWiki {
         DesiredCapabilities capabilities= new DesiredCapabilities();
         capabilities.setCapability("platformName", "Android");
         capabilities.setCapability("deviceName", "Nexu");
-        capabilities.setCapability("platformVersion","8.1");
+        capabilities.setCapability("platformVersion","8.0");
         capabilities.setCapability("appPackage", "org.wikipedia");
         capabilities.setCapability("appActivities", ".main.MainActivity");
 
         capabilities.setCapability("automationName", "Appium");
-        capabilities.setCapability("app","C:/Users/Michael Blitshtein/Documents/GitHub/Veb_Mobile");
+        capabilities.setCapability("app","C:/Users/Michael Blitshtein/Documents/GitHub/Veb_Mobile/wiki.apk");
         driver = new AppiumDriver<MobileElement>(new URL("http://127.0.0.1:4723/wd/hub"),capabilities);
 
     }
