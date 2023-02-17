@@ -4,7 +4,7 @@ import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.MobileElement;
 import org.openqa.selenium.support.FindBy;
 
-public class MainScreen extends BaseScreen{
+public class MainScreen extends BaseScreen {
     public MainScreen(AppiumDriver<MobileElement> driver) {
         super(driver);
     }
@@ -13,6 +13,10 @@ public class MainScreen extends BaseScreen{
     MobileElement detailView;
     @FindBy(xpath = "//*[@class='android.widget.TextView']")
     MobileElement searchButton;
+    @FindBy(xpath = "//*[@resource-id='org.wikipedia:id/menu_overflow_button']")
+    MobileElement flowButton;
+    @FindBy(xpath = "//*[@resource-id='org.wikipedia:id/explore_overflow_account_name']")
+    MobileElement logButton;
 
 
     public String getDetail() {
@@ -24,4 +28,11 @@ public class MainScreen extends BaseScreen{
         searchButton.click();
         return new SearchScreen(driver);
     }
+
+    public ModalLoginScreen clickTheFlowButton() {
+        flowButton.click();
+        return new ModalLoginScreen(driver);
+    }
+
+
 }
