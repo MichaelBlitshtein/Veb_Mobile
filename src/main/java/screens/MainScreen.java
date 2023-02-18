@@ -15,8 +15,6 @@ public class MainScreen extends BaseScreen {
     MobileElement searchButton;
     @FindBy(xpath = "//*[@resource-id='org.wikipedia:id/menu_overflow_button']")
     MobileElement flowButton;
-    @FindBy(xpath = "//*[@resource-id='org.wikipedia:id/explore_overflow_account_name']")
-    MobileElement logButton;
 
 
     public String getDetail() {
@@ -30,6 +28,7 @@ public class MainScreen extends BaseScreen {
     }
 
     public ModalLoginScreen clickTheFlowButton() {
+        should(flowButton,10);
         flowButton.click();
         return new ModalLoginScreen(driver);
     }

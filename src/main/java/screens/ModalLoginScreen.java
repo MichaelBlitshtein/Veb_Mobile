@@ -36,4 +36,8 @@ public class ModalLoginScreen extends BaseScreen{
     public String getInf(){
         return logButton.getText();
     }
+    public LoginScreen loginClick(){
+        logButton.click();
+        return new LoginScreen(driver);
+    }
 }

@@ -3,17 +3,20 @@ package tests;
 import manage.ConfigurationWiki;
 import model.User;
 import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import screens.MainScreen;
+import screens.ModalLoginScreen;
 
 public class Login extends ConfigurationWiki {
 
     @Test
     public void login1(){
-        User user = User.builder().userName("Galinachrom").password("Misha240613").build();
+        User user = User.builder().userName("Galinachrom").password("Michael123$").build();
         boolean isLogged = new MainScreen(driver)
                 .clickTheFlowButton()
-                .clickTheLoginButton()
+                .loginClick()
                 .fillInLoginForm(user)
                 .clickTheFlowButton()
                 .isLogged();
@@ -22,10 +25,10 @@ public class Login extends ConfigurationWiki {
 
     @Test
     public void login2(){
-        User user = User.builder().userName("Galinachrom").password("Misha240613").build();
+        User user = User.builder().userName("Galinachrom").password("Michael123$").build();
         String info= new MainScreen(driver)
                 .clickTheFlowButton()
-                .clickTheLoginButton()
+                .loginClick()
                 .fillInLoginForm(user)
                 .clickTheFlowButton()
                 .getInfo();
@@ -34,10 +37,10 @@ public class Login extends ConfigurationWiki {
     }
     @Test
     public void login3() {
-        User user = User.builder().userName("Galinachrom").password("Misha240613").build();
+        User user = User.builder().userName("Galinachrom").password("Michael123$").build();
         String infoOut = new MainScreen(driver)
                 .clickTheFlowButton()
-                .clickTheLoginButton()
+                .loginClick()
                 .fillInLoginForm(user)
                 .clickTheFlowButton()
                 .getInfoOut();
@@ -46,10 +49,10 @@ public class Login extends ConfigurationWiki {
 
     @Test
     public void  login4(){
-        User user = User.builder().userName("Galinachrom").password("Misha240613").build();
+        User user = User.builder().userName("Galinachrom").password("Michael123$").build();
         String inf = new MainScreen(driver)
                 .clickTheFlowButton()
-                .clickTheLoginButton()
+                .loginClick()
                 .fillInLoginForm(user)
                 .clickTheFlowButton()
                 .logOut()
@@ -57,5 +60,11 @@ public class Login extends ConfigurationWiki {
                 .getInf();
         Assert.assertEquals(inf, "Log in to Wikipedia");
 
+    }
+
+    @AfterMethod
+    public void postCondition(){
+        new ModalLoginScreen(driver)
+                .logOut();
     }
 }

@@ -15,9 +15,9 @@ public class LoginScreen extends BaseScreen{
     MobileElement userName;
     @FindBy(xpath = "//*[@resource-id='org.wikipedia:id/text_input_password_toggle']")
     MobileElement toggleButton;
-    @FindBy(xpath = "//*[resource-id='org.wikipedia:id/login_password_input']")
+    @FindBy(xpath = "//*[@resource-id='org.wikipedia:id/login_password_input']")
    MobileElement passwordInput;
-    @FindBy(xpath = "//*[resource-id='org.wikipedia:id/login_button']")
+    @FindBy(xpath = "//*[@resource-id='org.wikipedia:id/login_button']")
     MobileElement loginButton;
     public MainScreen fillInLoginForm(User user){
         type(userName,user.getUserName());
