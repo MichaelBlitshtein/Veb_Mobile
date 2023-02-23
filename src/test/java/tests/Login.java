@@ -1,6 +1,7 @@
 package tests;
 
 import manage.ConfigurationWiki;
+import manage.MyDataProvider;
 import model.User;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
@@ -47,9 +48,9 @@ public class Login extends ConfigurationWiki {
         Assert.assertEquals(infoOut, "Log out");
     }
 
-    @Test
-    public void  login4(){
-        User user = User.builder().userName("Galinachrom").password("Michael123$").build();
+    @Test(dataProvider =  "loginData",dataProviderClass = MyDataProvider.class)
+    public void  login4(User user){
+       // User user = User.builder().userName("Galinachrom").password("Michael123$").build();
         String inf = new MainScreen(driver)
                 .clickTheFlowButton()
                 .loginClick()
@@ -62,6 +63,20 @@ public class Login extends ConfigurationWiki {
 
     }
 
+
+    @Test(dataProvider = "loginDataCsv",dataProviderClass = MyDataProvider.class)
+    public void  login5(User user) {
+        //User user = User.builder().userName("Galinachrom").password("Michael123$").build();
+        String inf = new MainScreen(driver)
+                .clickTheFlowButton()
+                .loginClick()
+                .fillInLoginForm(user)
+                .clickTheFlowButton()
+                .logOut()
+                .clickTheFlowButton()
+                .getInf();
+        Assert.assertEquals(inf, "Log in to Wikipedia");
+    }
     @AfterMethod
     public void postCondition(){
         new ModalLoginScreen(driver)

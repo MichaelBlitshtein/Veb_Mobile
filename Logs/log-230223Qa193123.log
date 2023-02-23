@@ -1,0 +1,562 @@
+19:31:33.364  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:33.869  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:34.041  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:34.381  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:34.476  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:31:35.489  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:31:35.570  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:31:35.947  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:31:36.991  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:31:37.574  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:31:37.647  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:31:37.743  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:31:38.289  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:31:38.956  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/login_username_text']
+19:31:39.014  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']
+19:31:39.330  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/login_password_input']
+19:31:39.780  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_button']
+19:31:40.439  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/login_button']
+19:31:40.495  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/login_button']
+19:31:40.553  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/login_button']
+19:31:40.626  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:40.761  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:40.766  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@66383c29
+19:31:41.115  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1901.png
+19:31:41.624  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:41.666  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:41.667  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@6418e39e
+19:31:41.935  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1901.png
+19:31:42.440  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:42.478  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:42.479  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@6ddee60f
+19:31:42.757  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1902.png
+19:31:43.259  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:43.298  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:43.299  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@1e3ff233
+19:31:43.567  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1903.png
+19:31:44.074  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:44.109  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:44.110  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/menu_overflow_button']}[Ljava.lang.StackTraceElement;@13bdf540
+19:31:44.360  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1904.png
+19:31:44.862  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:46.065  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:46.149  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:46.539  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:46.613  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:47.560  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:47.632  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:47.707  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:47.773  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:48.383  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:48.516  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:48.984  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/menu_overflow_button']
+19:31:49.054  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:31:49.256  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:31:49.257  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_account_name']}[Ljava.lang.StackTraceElement;@5d7911d5
+19:31:49.809  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1909.png
+19:31:50.312  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:31:50.372  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_account_name']
+19:31:50.435  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:50.489  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:50.490  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@3a1f2a1
+19:31:51.185  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1911.png
+19:31:51.688  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:51.809  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:51.809  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@251c4280
+19:31:52.356  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1912.png
+19:31:52.863  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:52.897  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:52.897  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@322204dc
+19:31:53.337  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1913.png
+19:31:53.839  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:53.871  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:53.872  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@16d07cf3
+19:31:54.314  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1914.png
+19:31:54.820  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:54.856  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:54.856  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@8e25d3f
+19:31:55.299  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1915.png
+19:31:55.801  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:55.846  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:55.847  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@6af5b246
+19:31:56.273  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1916.png
+19:31:56.779  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:56.815  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:56.815  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@50085d9c
+19:31:57.238  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1917.png
+19:31:57.741  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:57.774  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:57.775  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@2ce03e86
+19:31:58.194  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1918.png
+19:31:58.701  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:58.735  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:58.736  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@52f6900a
+19:31:59.180  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1919.png
+19:31:59.682  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:59.713  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:31:59.713  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@1d6751e3
+19:32:00.157  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1920.png
+19:32:00.663  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:00.703  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:00.703  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@59845579
+19:32:01.146  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1921.png
+19:32:01.649  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:01.685  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:01.685  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@285005b8
+19:32:02.097  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1922.png
+19:32:02.602  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:02.633  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:02.634  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@50b46e24
+19:32:03.045  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1923.png
+19:32:03.548  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:03.578  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:03.578  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@541bf968
+19:32:03.992  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1923.png
+19:32:04.499  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:04.533  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:04.534  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@5a622fe8
+19:32:04.959  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1924.png
+19:32:05.463  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:05.503  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:05.503  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@54af3cb9
+19:32:05.936  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1925.png
+19:32:06.442  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:06.478  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:06.478  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@260e3837
+19:32:06.911  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1926.png
+19:32:07.413  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:07.443  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:07.443  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@415a3f6a
+19:32:07.854  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1927.png
+19:32:08.360  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:08.395  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:08.396  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@49edcb30
+19:32:08.817  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1928.png
+19:32:09.319  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:09.351  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:09.352  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@46320c9a
+19:32:09.777  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1929.png
+19:32:10.283  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:10.318  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:10.318  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@3434a4f0
+19:32:10.744  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1930.png
+19:32:11.247  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:11.286  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:11.286  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@5bf9ea6b
+19:32:11.710  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1931.png
+19:32:12.217  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:12.248  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:12.249  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@5a566922
+19:32:12.684  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1932.png
+19:32:13.187  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:13.219  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:13.220  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@166c2c17
+19:32:13.640  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1933.png
+19:32:14.146  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:14.178  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:14.178  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@794eeaf8
+19:32:14.598  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1934.png
+19:32:15.101  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:15.132  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:15.133  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@668cc9a2
+19:32:15.639  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1935.png
+19:32:16.145  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:16.180  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:16.180  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@70ede57d
+19:32:16.594  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1936.png
+19:32:17.096  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:17.128  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:17.129  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@16b3c905
+19:32:17.588  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1937.png
+19:32:18.097  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:18.130  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:18.130  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@373afd6c
+19:32:18.576  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1938.png
+19:32:19.078  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:19.110  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:19.111  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@377949f1
+19:32:19.526  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1939.png
+19:32:20.032  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:20.062  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:20.062  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@1ef31f71
+19:32:20.500  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1940.png
+19:32:21.003  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:21.035  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:21.036  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@29f3c438
+19:32:21.458  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1941.png
+19:32:21.964  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:21.991  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:21.991  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@7a83ccd2
+19:32:22.416  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1942.png
+19:32:22.918  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:22.947  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:22.948  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@7675c171
+19:32:23.353  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1943.png
+19:32:23.858  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:23.887  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:23.888  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@7cf63b9a
+19:32:24.301  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1944.png
+19:32:24.805  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:24.834  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:24.835  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@237add
+19:32:25.267  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1945.png
+19:32:25.772  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:25.802  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:25.803  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@67f9cb52
+19:32:26.245  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1946.png
+19:32:26.747  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:26.778  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:26.778  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@5c48b72c
+19:32:27.202  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1947.png
+19:32:27.708  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:27.740  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:27.740  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@6282b9f5
+19:32:28.171  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1948.png
+19:32:28.674  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:28.703  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:28.703  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@44598ef7
+19:32:29.121  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1949.png
+19:32:29.626  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:29.656  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:29.656  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@266e9dda
+19:32:30.069  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1950.png
+19:32:30.572  INFO  manage.AppiumListener - Starts find element---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:30.603  INFO  manage.AppiumListener - The element wsa found---By.xpath: //*[@resource-id='org.wikipedia:id/explore_overflow_log_out']
+19:32:30.604  INFO  manage.AppiumListener - You have a problem with ---An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-EU5P9CO', ip: '10.100.102.49', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.17'
+Driver info: io.appium.java_client.AppiumDriver
+Capabilities {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, databaseEnabled: false, desired: {app: C:/Users/Michael Blitshtein..., appActivities: .main.MainActivity, appPackage: org.wikipedia, automationName: Appium, deviceName: Nexu, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 680b29d6-13db-4145-b5b3-8616372b0089
+*** Element info: {Using=xpath, value=//*[@resource-id='org.wikipedia:id/explore_overflow_log_out']}[Ljava.lang.StackTraceElement;@8c12524
+19:32:31.023  INFO  manage.AppiumListener - Screen with error--src\test\resources\Screen1951.png
